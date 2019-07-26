@@ -36,9 +36,9 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 技术文档
 -----------------------------------
 
-- 在线演示 ：  [http://boot.jeecg.org](http://boot.jeecg.org)
+- 在线演示 ：  [http://boot.jeecg.com](http://boot.jeecg.com)
 
-- 在线教程：  [http://jeecg-boot.mydoc.io/?t=345660](http://jeecg-boot.mydoc.io/?t=345660)
+- 入门教程：  [http://jeecg-boot.mydoc.io/?t=345660](http://jeecg-boot.mydoc.io/?t=345660)
 
 - 常见问题：  [入门常见问题大全](http://www.jeecg.org/forum.php?mod=viewthread&tid=7816&extra=page%3D1)
 
@@ -48,9 +48,9 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 
 - 更新日志：  [版本日志](http://www.jeecg.com/#/doc/changelog)
 
-- Online初体验：  [1分钟快速学习](https://my.oschina.net/jeecg/blog/3061917)
+- Online体验：  [1分钟快速学习](https://my.oschina.net/jeecg/blog/3061917)
 
-- 如何参与：  [欢迎技术爱好者，加入JEECG开团队](http://jeecg.com/#/doc/canyu-os)
+- 反馈问题：  [反馈问题请发issue](https://github.com/zhangdaiscott/jeecg-boot/issues/new)
 
 
 为什么选择JEECG-BOOT?
@@ -119,7 +119,7 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 - [Viser-vue](https://viserjs.github.io/docs.html#/viser/guide/installation)  - antv/g2 封装实现
 - eslint，[@vue/cli 3.2.1](https://cli.vuejs.org/zh/guide)
 - vue-print-nb - 打印
-
+- [jeecg-boot-angular 版本](https://gitee.com/dangzhenghui/jeecg-boot)
 
 #### 开发环境
 
@@ -277,7 +277,6 @@ Jeecg-Boot快速开发平台，可以应用在任何J2EE项目的开发中，尤
 - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - 头像裁剪组件
 - [@antv/g2](https://antv.alipay.com/zh-cn/index.html) - Alipay AntV 数据可视化图表
 - [Viser-vue](https://viserjs.github.io/docs.html#/viser/guide/installation)  - antv/g2 封装实现
-- [jeecg-boot-angular 版本](https://gitee.com/dangzhenghui/jeecg-boot)
 
 
 项目下载和运行
